@@ -31,3 +31,7 @@ p {
 .parent > ol {
   display: inline-block;
 }
+
+h3.main {
+  color: green;
+}
